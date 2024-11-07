@@ -19,7 +19,7 @@ aside: false
 - [The paradox of choice](https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923)
 - [Nudge](https://www.amazon.com/Nudge-Final-Richard-H-Thaler/dp/014313700X)
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-- [So Good They Can't Ignore You](https://www.amazon.it/Good-They-Cant-Ignore-You/dp/0349415862)
+- ~~[So Good They Can't Ignore You](https://www.amazon.it/Good-They-Cant-Ignore-You/dp/0349415862)~~
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.it/Deep-Work-Focused-Success-Distracted/dp/0349411905)
 - [Algorithms to live by: The Computer Science of Human Decisions](https://www.amazon.it/Algorithms-live-Brian-Christian/dp/0007547994)
 - [How to lie with statistics](https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728)
@@ -37,8 +37,8 @@ aside: false
 - [Philips Hue Signe 145cm](https://www.digitec.ch/en/s1/product/philips-hue-gradient-signe-2550-lm-floor-lamps-16467477)
 - [Philips Hue Signe 55cm](https://www.digitec.ch/en/s1/product/philips-hue-gradient-signe-1040-lm-table-lamps-16467476)
 - [Apple Watch Milanese Bracelet – M](https://www.apple.com/ch-de/shop/product/MXKD3ZM/A/49-mm-milanaise-armband-titan-natur-m)
-- [Withings Body Smart](https://www.digitec.ch/en/s1/product/withings-body-smart-200-kg-bathroom-scales-35722783)
+- ~~[Withings Body Smart](https://www.digitec.ch/en/s1/product/withings-body-smart-200-kg-bathroom-scales-35722783)~~
 - [Muse 2](https://www.amazon.it/MUSE-2-Brain-Sensing-Headband/dp/B07HL2S9JQ)
 - [Attacco Pasta](https://www.galaxus.ch/it/s2/product/kenwood-attacco-per-pasta-kax982me-tagliolini-accessori-per-utensili-da-cucina-4658100)
-- [North Face Base Camp](https://www.galaxus.ch/it/s8/product/north-face-base-camp-71-l-borsa-16006474)
+- ~~[North Face Base Camp](https://www.galaxus.ch/it/s8/product/north-face-base-camp-71-l-borsa-16006474)~~
 - [Peak Design Bag](https://www.galaxus.ch/it/s1/product/peak-design-sacchetto-tecnico-custodia-per-fotocamera-2-l-borsa-fotocamera-14696783)
