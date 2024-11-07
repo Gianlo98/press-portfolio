@@ -9,7 +9,7 @@ hero:
   text: <span id="myname">Gianlorenzo Occhipinti </span>
   actions:
     - theme: alt
-      text: 👨‍💻 Solftware Engineer
+      text: 👨‍💻 Software Engineer
     - theme: alt
       text: ☁️ Cloud Services
     - theme: alt
