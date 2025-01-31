@@ -3,6 +3,20 @@ layout: home
 
 title: 👋 Hey, I'm Gianlorenzo 🍕! 
 titleTemplate: Portfolio
+head:
+  - - meta
+    - property: 'og:image'
+      content: https://occhipinti.dev/icon.png
+    - property: 'os:title'
+      content: Gianlorenzo Occhipinti
+    - property: 'os:description'
+      content: Software Engineer
+    - property: 'os:url'
+      content: https://occhipinti.dev
+    - property: 'os:type'
+      content: website
+    - property: 'os:logo'
+      content: https://occhipinti.dev/icon.png
 
 hero:
   name: <span id="greetings">Hey!</span> 👋 I'm
